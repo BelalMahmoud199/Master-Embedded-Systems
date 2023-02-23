@@ -1,0 +1,7 @@
+٢٢:٣٩:٢٦ **** Incremental Build of configuration Debug for project Lab5_Averege_degrees_of_students ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Lab5_Averege_degrees_of_students.o" "..\\src\\Lab5_Averege_degrees_of_students.c" 
+gcc -o Lab5_Averege_degrees_of_students.exe "src\\Lab5_Averege_degrees_of_students.o" 
+
+٢٢:٣٩:٢٦ Build Finished. 0 errors, 0 warnings. (took 570ms)
+

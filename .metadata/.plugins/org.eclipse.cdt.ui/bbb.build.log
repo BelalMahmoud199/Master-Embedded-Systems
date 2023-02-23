@@ -1,0 +1,9 @@
+٠١:٥٥:٥٥ **** Build of configuration Debug for project bbb ****
+make all 
+Cannot run program "make": Launching failed
+
+Error: Program "make" not found in PATH
+PATH=[C:/Program Files/Java/jdk-19/bin/server;C:/Program Files/Java/jdk-19/bin;C:/Users/BELALM~1/AppData/Local/Temp/eoi4DCB.tmp//plugins/org.eclipse.justj.openjdk.hotspot.jre.minimal.stripped.win32.x86_64_17.0.4.v20221004-1257/jre/bin/server;C:/Users/BELALM~1/AppData/Local/Temp/eoi4DCB.tmp//plugins/org.eclipse.justj.openjdk.hotspot.jre.minimal.stripped.win32.x86_64_17.0.4.v20221004-1257/jre/bin;"C:\MinGW\x86_64-w64-mingw32\bin;C:\Program Files\Java\jdk-19\bin";C:\Program Files\Java\jdk-19\bin;C:\Users\Belal Mahmoud\AppData\Local\Microsoft\WindowsApps;;C:\Users\Belal Mahmoud\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Belal Mahmoud\Downloads\Programs;;C:\Users\Belal Mahmoud\Downloads\Programs]
+
+٠١:٥٥:٥٥ Build Failed. 1 errors, 0 warnings. (took 489ms)
+

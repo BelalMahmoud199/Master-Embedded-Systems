@@ -1,0 +1,7 @@
+٢٢:٣٩:٢٥ **** Rebuild of configuration Debug for project Lab3_calculate_the_minimum_of_two_numbers ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\in_line.o" "..\\src\\in_line.c" 
+gcc -o Lab3_calculate_the_minimum_of_two_numbers.exe "src\\in_line.o" 
+
+٢٢:٣٩:٢٥ Build Finished. 0 errors, 0 warnings. (took 626ms)
+

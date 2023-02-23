@@ -1,0 +1,7 @@
+٢٢:٣٩:٢٤ **** Rebuild of configuration Debug for project Lab2_Comparing_three_numbers ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Lab2_Comparing_three_numbers.o" "..\\src\\Lab2_Comparing_three_numbers.c" 
+gcc -o Lab2_Comparing_three_numbers.exe "src\\Lab2_Comparing_three_numbers.o" 
+
+٢٢:٣٩:٢٥ Build Finished. 0 errors, 0 warnings. (took 570ms)
+

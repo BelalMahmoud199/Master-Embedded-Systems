@@ -1,0 +1,27 @@
+/*
+ * main.c
+ *
+ ============================================================================
+ Name        : firstpro.c
+ Author      : ff
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+
+int main(int argc, char **argv) {
+	char choice;
+	float raduis;
+	float area, circumference;
+	printf("Enter cicle raduis : ");
+	fflush(stdin); fflush(stdout);
+	scanf("%f", &raduis);
+	printf
+
+
+
+
+}

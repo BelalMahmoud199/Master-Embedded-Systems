@@ -1,0 +1,47 @@
+٢٢:٤٠:٢٨ **** Incremental Build of configuration Debug for project Mat ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Matrix.o" "..\\src\\Matrix.c" 
+..\src\Matrix.c:13:6: warning: return type of 'main' is not 'int' [-Wmain]
+   13 | void main ()
+      |      ^~~~
+..\src\Matrix.c:33:1: error: expected identifier or '(' before '}' token
+   33 | }
+      | ^
+٢٢:٤١:٥١ **** Rebuild of configuration Debug for project Mat ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Mat.o" "..\\src\\Mat.c" 
+gcc -o Mat.exe "src\\Mat.o" 
+٢٢:٤٢:٠٥ **** Incremental Build of configuration Debug for project Mat ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Mat.o" "..\\src\\Mat.c" 
+..\src\Mat.c:16:6: warning: return type of 'main' is not 'int' [-Wmain]
+   16 | void main ()
+      |      ^~~~
+gcc -o Mat.exe "src\\Mat.o" 
+٢٢:٤٢:٤٠ **** Incremental Build of configuration Debug for project Mat ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Mat.o" "..\\src\\Mat.c" 
+..\src\Mat.c:16:6: warning: return type of 'main' is not 'int' [-Wmain]
+   16 | void main ()
+      |      ^~~~
+gcc -o Mat.exe "src\\Mat.o" 
+Info: Nothing to build for Mat
+٢٢:٤٢:٥٨ **** Incremental Build of configuration Debug for project Mat ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Mat.o" "..\\src\\Mat.c" 
+..\src\Mat.c:16:6: warning: return type of 'main' is not 'int' [-Wmain]
+   16 | void main ()
+      |      ^~~~
+gcc -o Mat.exe "src\\Mat.o" 
+٢٢:٤٣:٠٤ **** Incremental Build of configuration Debug for project Mat ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Mat.o" "..\\src\\Mat.c" 
+..\src\Mat.c:16:6: warning: return type of 'main' is not 'int' [-Wmain]
+   16 | void main ()
+      |      ^~~~
+gcc -o Mat.exe "src\\Mat.o" 
+Info: Nothing to build for Mat
+Info: Nothing to build for Mat
+Info: Nothing to build for Mat
+Info: Nothing to build for Mat
+Info: Nothing to build for Mat

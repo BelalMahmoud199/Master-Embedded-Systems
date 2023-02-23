@@ -1,0 +1,7 @@
+٢٢:٣٩:٢٣ **** Rebuild of configuration Debug for project Lab1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Lab1.o" "..\\src\\Lab1.c" 
+gcc -o Lab1.exe "src\\Lab1.o" 
+
+٢٢:٣٩:٢٤ Build Finished. 0 errors, 0 warnings. (took 765ms)
+

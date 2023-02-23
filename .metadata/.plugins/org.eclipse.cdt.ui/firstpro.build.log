@@ -1,0 +1,7 @@
+٢٢:٣٩:٢٧ **** Rebuild of configuration Debug for project firstpro ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\firstpro.o" "..\\src\\firstpro.c" 
+gcc -o firstpro.exe "src\\firstpro.o" 
+
+٢٢:٣٩:٢٧ Build Finished. 0 errors, 0 warnings. (took 547ms)
+
